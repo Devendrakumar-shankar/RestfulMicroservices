@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+   <class name="mypack.Emp" table="emp420">
+   <id name="id">
+
+    </id>
+    <property name="name"></property>
+     <property name="address"></property>
+   
+   
+   </class>
+</hibernate-mapping>
